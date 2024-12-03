@@ -5,7 +5,6 @@
         "sourceMap": true,
         "noImplicitOverride": true,
         "noImplicitReturns": true,
-        "noUncheckedIndexedAccess": true,
         "removeComments": true,
         "outDir": "build/",
         "noEmitOnError": true,

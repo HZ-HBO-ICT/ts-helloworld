@@ -1,6 +1,6 @@
 {
   "name": "ts-helloworld",
-  "version": "2024.1.0",
+  "version": "2025.1.0",
   "repository": "git@github.com:HZ-HBO-ICT/ts-helloworld.git",
   "author": "HZ University of Applied Sciences",
   "license": "MIT",
@@ -11,11 +11,11 @@
     "watch": "tsc --watch "
   },
   "devDependencies": {
-    "@eslint/js": "9.16.0",
-    "@stylistic/eslint-plugin": "2.11.0",
-    "eslint": "9.16.0",
-    "eslint-plugin-jsdoc": "50.6.0",
-    "typescript": "5.6",
-    "typescript-eslint": "8.17.0"
+    "@eslint/js": "9.37.0",
+    "@stylistic/eslint-plugin": "5.4.0",
+    "eslint": "9.37.0",
+    "eslint-plugin-jsdoc": "60.8.3",
+    "typescript": "5.9",
+    "typescript-eslint": "8.46.0"
   }
 }
